@@ -5,3 +5,12 @@
 .buttonb{
     background-color:#1E5879
 }
+
+img.logo{
+    opacity:0.5;
+}
+
+img.logo:hover
+{
+    opacity:1;
+}
