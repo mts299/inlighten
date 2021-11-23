@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url("../fonts/BankGothic_Bold.ttf")
+}
+ 
+.accordion-body{
+    font-family: 'Advent Pro', sans-serif;
+}
+
+p{
+    font-family: 'Advent Pro', sans-serif;
+}
+
+a{
+    font-family:"CustomFont"
+}
+
+h5{
+    font-family:"CustomFont"
+}
+
+h4{
+    font-family:"CustomFont"
+}
+
+
+h4{
+    font-family:"CustomFont"
+}
+
+h1{
+    font-family:"CustomFont"
+}
+
+h2{
+    font-family:"CustomFont"
+}
+.buttong{
+    background-color:#365B37
+}
+
+.buttonb{
+    background-color:#1E5879
+}
+
+img.logo{
+    opacity:1;
+}
+
+img.logo:hover
+{
+    opacity:1;
+}
+
+.buttong:hover { 
+    background-color:#1E5879
+}
+
+.buttonb:hover { 
+    background-color:#365B37
+}
